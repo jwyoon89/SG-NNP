@@ -1,0 +1,6 @@
+distinct_singlet_index: {0: 28, 1: 42}
+distinct_pairs_index: {0: (28, 28), 1: (28, 42), 2: (42, 42)}
+Submitted batch job 7258446
+Submitted batch job 7258479
+Submitted batch job 7258815
+Hyperparameter Tuning Mode!
